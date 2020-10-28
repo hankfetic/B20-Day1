@@ -1,1 +1,8 @@
 File testing now hadis
+
+we created a git rep on desktop
+
+wed added 1 file
+
+git automatically detected changes
+we commited this cahnges to local repo
